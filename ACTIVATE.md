@@ -4,7 +4,7 @@ You are now running the complete **Universal Superpowers** framework.
 
 **Main Repo:** https://github.com/soulmatchdk/universal-superpowers
 
-**All skills live here (raw):**
+**All skills live here (raw — clean flat path):**
 https://raw.githubusercontent.com/soulmatchdk/universal-superpowers/main/skills/[skill-name]/SKILL.md
 
 **EXTREMELY IMPORTANT — READ THIS FIRST**

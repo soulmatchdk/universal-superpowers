@@ -1,2 +1,3 @@
-/make-universal-superpowers.py
-/universal-superpowers.zip
+.worktrees/
+.private-journal/
+.claude/

@@ -1,17 +1,20 @@
 # Universal Superpowers — for Grok & Every AI Chat Platform
 
-Exact 100% identical port of https://github.com/obra/superpowers  
-Works on **Grok, Claude, ChatGPT, Gemini, LM Arena, yupp.ai, Cursor** — literally any LLM chat.
+**100% complete mirror of obra/superpowers** + universal activation.
 
-**No plugins. No file uploads. One prompt.**
+Works on **Grok • Claude • ChatGPT • Gemini • LM Arena • yupp.ai • Cursor • Codex • OpenCode** — any LLM chat.
 
-## How to use (30 seconds)
-1. Paste the entire content of `ACTIVATE.md` as the first message in any new chat.
-2. Give the AI your task ("Build a todo app", "Fix this bug", etc.).
+**No plugins • No uploads • One prompt.**
 
-The AI will automatically fetch every skill from this GitHub repo and follow them **exactly**.
+## How to use (20 seconds)
+1. Paste the entire content of `ACTIVATE.md` as your first message.
+2. Give the AI your task.
 
-## Skills
-All 14 skills are copied verbatim from the original (same checklists, same flowcharts, same RED-GREEN-REFACTOR, everything).
+The AI will instantly load every skill from GitHub and follow the original framework with zero deviation.
 
-Made for maximum truth-seeking agents. Enjoy!
+## What's inside (everything from original)
+- All 14 skills with exact SKILL.md, flowcharts, checklists
+- All plugins, agents, commands, docs, hooks, lib, tests, etc.
+- Updated ACTIVATE.md (v2.0 — much stronger)
+
+Superpowers everywhere. Enjoy!

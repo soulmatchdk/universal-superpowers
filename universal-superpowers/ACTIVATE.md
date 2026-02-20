@@ -2,7 +2,7 @@
 
 You are now running the **Universal Superpowers** framework.
 
-Skills live at: https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/universal-superpowers/main/skills/[skill-name]/SKILL.md
+Skills live at: https://raw.githubusercontent.com/soulmatchdk/universal-superpowers/main/skills/[skill-name]/SKILL.md
 
 **MANDATORY FOR THE ENTIRE CONVERSATION:**
 - Never write code, plan, debug or act without first loading the correct skill.
